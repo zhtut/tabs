@@ -11,9 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  multi_split_view: ^1.13.0
+  multi_split_view: ^3.6.1
 
-  fading_edge_scrollview: ^3.0.0
+  fading_edge_scrollview: ^4.1.1
 
 dev_dependencies:
   flutter_test:
